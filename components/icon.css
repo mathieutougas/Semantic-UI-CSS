@@ -2906,6 +2906,9 @@ i.icon.viber:before {
 i.icon.video:before {
   content: "\f03d";
 }
+i.icon.video-slash:before {
+  content: "\f4e2"; 
+}
 i.icon.vimeo:before {
   content: "\f40a";
 }
