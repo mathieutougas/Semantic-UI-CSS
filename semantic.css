@@ -11443,6 +11443,10 @@ i.icon.volume.off:before {
   content: "\f026";
 }
 
+i.icon.volume.mute:before {
+  content: "\f6a9";
+}
+
 i.icon.volume.up:before {
   content: "\f028";
 }
@@ -12671,6 +12675,10 @@ i.icon.video.camera:before {
 
 i.icon.video.play:before {
   content: "\f144";
+}
+
+i.icon.video.slash:before {
+  content: "\f4e2"; 
 }
 
 i.icon.visa.card:before {
